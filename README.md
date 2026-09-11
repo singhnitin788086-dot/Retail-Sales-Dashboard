@@ -164,9 +164,6 @@ This dashboard can help businesses:
 ---
 
 ## 📷 Dashboard Preview
-
-![Retail Sales Analytics Dashboard](Retail%20Sales%20Dashboard.png)
-
 ---
 
 ## 💡 Project Objective
